@@ -6,7 +6,7 @@ WhirlyTask is a Windows automation app for building keyboard, mouse, screen-text
 
 This download repository contains the current Windows installer for WhirlyTask.
 
-### Download it [here](https://github.com/Kais80r/WhirlyTask-Download/releases).
+### Download it [here](https://github.com/Kais80r/WhirlyTask-Download/releases/tag/Latest).
 
 ## What WhirlyTask Is Good At
 
